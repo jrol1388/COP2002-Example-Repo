@@ -1,4 +1,0 @@
-# Creating a project for GitHub
-# By Justin Roland
-
-print("COP2002 Summer 2024")
